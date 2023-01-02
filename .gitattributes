@@ -1,0 +1,13 @@
+android-annotation-stubs filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+value filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+service filter=lfs diff=lfs merge=lfs -text
+util filter=lfs diff=lfs merge=lfs -text
+build-pom.xml filter=lfs diff=lfs merge=lfs -text
+common filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING.md filter=lfs diff=lfs merge=lfs -text
+factory filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text

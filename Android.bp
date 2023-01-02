@@ -1,17 +1,3 @@
-package {
-    default_visibility: [":__subpackages__"],
-    default_applicable_licenses: ["external_auto_license"],
-}
-
-// Added automatically by a large-scale-change
-// See: http://go/android-license-faq
-license {
-    name: "external_auto_license",
-    visibility: [":__subpackages__"],
-    license_kinds: [
-        "SPDX-license-identifier-Apache-2.0",
-    ],
-    license_text: [
-        "LICENSE",
-    ],
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:59cd893be88d683d6583dbeeb7979711245bcf9387b2a8e8add2bf0c55e170b3
+size 409
